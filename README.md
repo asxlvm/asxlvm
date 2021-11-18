@@ -1,6 +1,4 @@
-# Hey, this is Asylum's README!
-
----
+# Hey, I'm Asylum! 👋
 
 ## Socials
 
@@ -8,9 +6,15 @@
 <a href="https://youtube.com/asylumxd">
     <img align="left" width="22px" src="https://simpleicons.org/icons/youtube.svg" />
 </a>
-<img align="left" width="22px" src="https://simpleicons.org/icons/twitter.svg" />
-<img align="left" width="22px" src="https://simpleicons.org/icons/gitlab.svg" />
-<img align="left" width="22px" src="https://simpleicons.org/icons/replit.svg" />
+<a href="https://twitter.com/asxlvmwastaken">
+    <img align="left" width="22px" src="https://simpleicons.org/icons/twitter.svg" />
+</a>
+<a href="https://gitlab.com/asxlvm">
+    <img align="left" width="22px" src="https://simpleicons.org/icons/gitlab.svg" />
+</a>
+<a href="https://replit.com/@asxlvm">
+    <img align="left" width="22px" src="https://simpleicons.org/icons/replit.svg" />
+</a>
 
 <br />
 
