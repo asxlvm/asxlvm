@@ -2,7 +2,7 @@
 
 ## Socials
 
-<img align="left" style="filter:invert(100%) sepia(0%) saturate(7500%) hue-rotate(338deg) brightness(103%) contrast(102%);" width="22px" src="https://simpleicons.org/icons/discord.svg" />
+<img align="left" style="filter:invert(100%)" width="22px" src="https://simpleicons.org/icons/discord.svg" />
 <a href="https://youtube.com/asylumxd">
     <img align="left" width="22px" src="https://simpleicons.org/icons/youtube.svg" />
 </a>
