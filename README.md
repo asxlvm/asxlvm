@@ -33,6 +33,5 @@
 
 ## Stat Cards
 
-<img align="left" width=47% src="https://github-readme-stats.vercel.app/api/top-langs/?username=asxlvm" />
-<img align="left" width=47% src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&count_private=true" />
-
+<img align="left" width=40% src="https://github-readme-stats.vercel.app/api/top-langs/?username=asxlvm" />
+<img align="left" width=40% src="https://github-readme-stats.vercel.app/api?username=asxlvm&show_icons=true&count_private=true" />
