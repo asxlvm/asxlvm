@@ -10,6 +10,8 @@
 <img align="left" width="22px" src="https://simpleicons.org/icons/gitlab.svg" />
 <img align="left" width="22px" src="https://simpleicons.org/icons/replit.svg" />
 
+<br />
+
 ## What I use & like
 
 <img align="left" width="22px" src="https://simpleicons.org/icons/python.svg" />
