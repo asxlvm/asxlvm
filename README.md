@@ -5,7 +5,9 @@
 ## Socials
 
 <img align="left" width="22px" src="https://simpleicons.org/icons/discord.svg" />
-<img align="left" width="22px" src="https://simpleicons.org/icons/youtube.svg" />
+<a href="https://youtube.com/asylumxd">
+    <img align="left" width="22px" src="https://simpleicons.org/icons/youtube.svg" />
+</a>
 <img align="left" width="22px" src="https://simpleicons.org/icons/twitter.svg" />
 <img align="left" width="22px" src="https://simpleicons.org/icons/gitlab.svg" />
 <img align="left" width="22px" src="https://simpleicons.org/icons/replit.svg" />
