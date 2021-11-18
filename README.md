@@ -29,3 +29,10 @@
 <img align="left" width="22px" src="https://simpleicons.org/icons/cplusplus.svg" />
 <img align="left" width="22px" src="https://simpleicons.org/icons/python.svg" />
 
+---
+
+## Stat Cards
+
+<img align="left" width=47% src="https://github-readme-stats.vercel.app/api/top-langs/?username=asxlvm" />
+<img align="left" width=47% src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&count_private=true" />
+
